@@ -3,11 +3,11 @@
 def line(name)
   katz_deli = []
   #   name.each do |names|
-      if katz_deli(names) == 0
+      if katz_deli(name) == 0
         puts "The line is currently empty."
-        katz_deli += names 
+        katz_deli += name 
       elsif 
-      position = katz_deli.index_of(names )
+      position = katz_deli.index_of(name)
         puts position
     end 
   # end 
