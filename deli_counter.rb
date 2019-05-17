@@ -10,5 +10,5 @@ def line(name)
       position = katz_deli.index_of(names )
         puts position
     end 
-  end 
+  # end 
 end 
