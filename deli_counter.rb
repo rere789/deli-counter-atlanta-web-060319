@@ -19,5 +19,5 @@ def take_a_number(katz_deli, name)
 end 
 
 def now_serving(name)
-  puts "There are no people in line"
+  puts  "There is nobody waiting to be served!"
 end 
