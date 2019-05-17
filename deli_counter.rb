@@ -1,5 +1,5 @@
 # Write your code here.
 
 def line(name)
-  puts "The line is currently empty #{name}"
+  puts "The line is currently empty."
 end 
