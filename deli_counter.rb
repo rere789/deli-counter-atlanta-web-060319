@@ -1,14 +1,7 @@
 # Write your code here.
+katz_deli = []
 
-def line(name)
-  katz_deli = []
-  #   name.each do |names|
-      if katz_deli(name) == 0
-        puts "The line is currently empty."
-        katz_deli += name 
-      elsif 
-      position = katz_deli.index_of(name)
-        puts position
-    end 
-  # end 
+def line(katz_deli)
+  if katz_deli.length == 0 
+    puts "The line is currently empty."
 end 
